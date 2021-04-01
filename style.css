@@ -1,0 +1,25 @@
+*{
+    background-color: black;
+}
+
+button{
+    color: #723c70;
+    margin: 50%;
+    font-size: 3rem;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 8px;
+    border-width: 5px;
+    border-color: #723c70;
+    transition: .5s;
+    
+}
+
+button:hover{
+    box-shadow: 0 5px 5px #ccff33;
+    cursor: pointer;
+    color: #008000;
+    transition: 0.4s;
+    border-color: #008000;
+    margin-top: 49%;
+}
